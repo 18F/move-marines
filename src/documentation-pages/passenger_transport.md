@@ -3,7 +3,7 @@ title: Passenger Transport
 sidenav: true
 ---
 
-# Section heading (h1)
+# Moving Resources
 
 There is valuable Passenger Transportation and Personal Property information on the Logistics Distribution Policy Branch Permanent Change of Station (PCS) webpage. Please click the image icons below for information on moving your family, pet, vehicle and more! All U.S. Department of Defense (DoD) service members and civilian personnel can find additional information on executing a PCS move at www.move.mil. Early coordination and communication are key to ensuring a successful PCS. 
 
@@ -20,14 +20,12 @@ PCS orders with appropriation data are NOT required to make reservations in GATE
 
 Learn more by reading the [AMC pet brouchure.](https://www.iandl.marines.mil/Portals/85/Docs/LPD/LPD/AMC%20Pet%20Brochure%20April%202018.pdf?ver=2019-02-28-092546-050) 
 
-### Subsection heading (h3)
+# PCS move pamphlets
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
+Executing a PCS can be a challenge. Don’t worry. Headquarters Marine Corps has got you covered. Our PCS Move Pamphlets and Brochures contain everything you need know – a list of POCs to call when you have questions, steps to execute a Personally Procured Move, information of personal property weight estimation, unclaimed baggage, steps for shipping your privately owned vehicle, and so much more.
 
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
+- [Personally Procured Move (PPM)](https://www.iandl.marines.mil/Portals/85/Docs/LPD/LPD/AppC02_PPMs%20Mod%201%20weight%20.pdf?ver=2019-03-22-091817-560)
+- [PPM Web Training](https://www.iandl.marines.mil/Portals/85/Docs/LPD/LPD/USN%20USMC%20PPM%20webinar%20v3.pdf?ver=2019-03-22-091826-700)
+- [LPD-2 Approved PPM Augmented Brief](https://www.iandl.marines.mil/Portals/85/Docs/LPD/LPD/LPD2%20Approved%20PPM%20Augmented%20Brief%2019%20Mar%202019.pptx?ver=2019-03-22-091817-560)
 
-#### Subsection heading (h4)
 
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
