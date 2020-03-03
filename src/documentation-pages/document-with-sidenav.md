@@ -1,11 +1,11 @@
 ---
-title: Document with sidenav
+title: Personally Procured Move
 sidenav: true
 ---
 
 # Section heading (h1)
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+There is valuable Passenger Transportation and Personal Property information on the Logistics Distribution Policy Branch Permanent Change of Station (PCS) webpage. Please click the image icons below for information on moving your family, pet, vehicle and more! All U.S. Department of Defense (DoD) service members and civilian personnel can find additional information on executing a PCS move at www.move.mil. Early coordination and communication are key to ensuring a successful PCS. #PCSWith2020Vision
 
 ## Section heading (h2)
 
