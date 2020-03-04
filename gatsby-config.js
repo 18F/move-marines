@@ -1,30 +1,50 @@
 module.exports = {
   siteMetadata: {
-    author: 'Foo',
-    title: `Agency Name`,
-    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
+    author: '18F',
+    title: `Not Move.mil`,
+    description: `Prototype site for Marine Corps-specific enhancements to move.mil`,
     navigation: [
       {
         items: [{ text: 'Home', link: '/' }],
       },
       {
-        items: [{ text: 'Blog', link: '/blog' }],
-      },
-      {
-        items: [{ text: 'Document', link: '/document' }],
-      },
-      {
+        title: 'Moving Guide',
         items: [
-          { text: 'Document with sidenav', link: '/document-with-sidenav' },
+          { text: 'Moving with the Military Overview', link: '#' },
+          { text: 'Entitlements/Guidelines', link: '#'},
+          { text: 'What to Expect?', link: '#'},
+          { text: 'Reimbursements', link: '#'},
+          { text: 'Loss & Damage Claims', link: '#'},
+          { text: 'Moving Tips', link: '#'},
+          { text: 'Moving Stories', link: '#'},
+          { text: 'Overseas Moves (OCONUS)', link: '#'},
+          { text: 'TDY Moves', link: '#'},
+          { text: 'Retiring/Separating Members', link: '#'},
+          { text: 'Civilian Employees', link: '#'},
+          { text: 'Service-Specific Information', link: '#'},
+          { text: 'Pet Information', link: '#'},
+          { text: 'Privately Owned Vehicles (POVs)', link: '#'},
         ],
       },
       {
-        title: 'Document submenu',
+        items: [{ text: 'Tutorials', link: '#' }],
+      },
+      {
+        items: [{ text: 'FAQ', link: '#' }],
+      },
+      {
+        items: [{ text: 'Customer Service', link: '#' }],
+      },
+      {
+        title: 'Tools & Resources',
         items: [
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
+          { text: 'Customer Brochures', link: '#' },
+          { text: 'Helpful Links', link: '#' },
+          { text: 'Privately Owned Vehicles (POVs)', link: '#' },
+          { text: 'PPM Estimator', link: '#' },
+          { text: 'Weight Estimator', link: '#' },
+          { text: 'Find Nearby Locations', link: '#' },
+          { text: 'Protect Your Move', link: '#' },
         ],
       },
     ],

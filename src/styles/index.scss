@@ -10,7 +10,7 @@ $theme-font-path: '../../node_modules/uswds/src/fonts';
   the $theme-image-path above.
 */
 
-$theme-hero-image: '#{$theme-image-path}/hero.png';
+$theme-hero-image: '../images/movingtruckhero.jpg';
 
 // Your custom changes to variables go here
 // Uncomment to see this working
@@ -44,4 +44,52 @@ $theme-hero-image: '#{$theme-image-path}/hero.png';
   .paginate-button {
     display: block;
   }
+}
+
+// Hacks to quickly mimic existing move.mil style
+
+.usa-hero {
+  background-position: left;
+  padding-top: 15rem;
+}
+
+.usa-section--light {
+    background-color: #ffffff;
+}
+
+.homepage-service-section {
+  border-top: 0.25rem solid #112e51;
+}
+
+.homepage-service-section h3 {
+  color: #212121;
+}
+
+
+.service-emblem-list--item a img { 
+  height: 100px;
+}
+
+.service-emblem-list--item { 
+  text-align: center;
+  font-weight: 700;
+}
+
+.usa-nav__primary button {
+  color: #0071bc;
+}
+
+.usa-nav__primary {
+  > .usa-nav__primary-item {
+    > a {
+        color: #0071bc;
+        }
+  }
+}
+
+.usa-graphic-list__heading {
+  color: #205493;
+  font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+  font-weight: 3.5rem;
+  font-weight: 700;
 }

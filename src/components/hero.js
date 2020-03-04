@@ -7,6 +7,7 @@ import React from 'react';
 const Hero = () => (
   <section className="usa-hero">
     <div className="grid-container">
+      {/*
       <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
           <span className="usa-hero__heading--alt">Hero callout:</span>Bring
@@ -20,6 +21,7 @@ const Hero = () => (
           Call to action
         </a>
       </div>
+      */}
     </div>
   </section>
 );
