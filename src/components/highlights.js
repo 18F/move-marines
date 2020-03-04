@@ -1,19 +1,22 @@
 import React from 'react';
-import circle from '../../node_modules/uswds/dist/img/circle-124.png';
+import plan from '../images/planyourmove.png';
+import schedule from '../images/scheduleyourmove.png';
+import ready from '../images/getready.png';
+import settling from '../images/settlingin.png';
 
 /*
   Use this section to highlight key elements of your site. Some sites will only have two while others may have six to eight. 
 */
 
 const Highlights = () => (
-  <section className="usa-graphic-list usa-section usa-section--dark">
+  <section className="usa-graphic-list usa-section usa-section--light">
     <div className="grid-container">
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={plan} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Graphic headings can vary.
+              Plan Your Move
             </h3>
             <p>
               Graphic headings can be used a few different ways, depending on
@@ -23,10 +26,10 @@ const Highlights = () => (
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={schedule} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Stick to 6 or fewer words.
+              Schedule Your Move
             </h3>
             <p>
               Keep body text to about 30 words. They can be shorter, but try to
@@ -38,10 +41,10 @@ const Highlights = () => (
       </div>
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={ready} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Never highlight anything without a goal.
+              Get Ready for Moving Day
             </h3>
             <p>
               For anything you want to highlight here, understand what your
@@ -51,10 +54,10 @@ const Highlights = () => (
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={settling} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Could also have 2 or 6.
+              Settling In
             </h3>
             <p>
               In addition to your goal, find out your users’ goals. What do they
