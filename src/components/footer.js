@@ -16,18 +16,16 @@ const Footer = () => (
           <div className="tablet:grid-col"></div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>Move.mil - DOD Official moving portal</li>
-              <li>Navy Household Goods & Personal Property</li>
-              <li>Marine Corps Community Support - Okinawa, Japan</li>
+              <li>Footer link</li>
+              <li>Footer link</li>
+              <li>Footer link</li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-            <li>U.S. Marine Corps Personal Property Transportation and Storage</li>
-<li>U.S. Marine Corps Passenger Transportation</li>
-<li>Department of the Navy Household Goods</li>
-<li>United States Transportation Command</li>
-Air Mobility Command
+              <li>Footer link</li>
+              <li>Footer link</li>
+              <li>Footer link</li>
             </ul>
           </div>
         </div>

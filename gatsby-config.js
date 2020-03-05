@@ -1,38 +1,36 @@
 module.exports = {
   siteMetadata: {
     author: 'Foo',
-    title: `USMC PCS Information`,
-    description: `Learn more about PCS move information specific to the US Marine Corps on this page.`,
+    title: `Agency Name`,
+    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
     navigation: [
       {
         items: [{ text: 'Home', link: '/' }],
       },
       {
-        items: [{ text: 'Your First PCS?', link: '/firstpcs' }],
+        items: [{ text: 'Blog', link: '/blog' }],
       },
       {
-        items: [{ text: 'Passenger Transport', link: '/passenger_transport_' }],
-      },
-      {
-        items: [{ text: 'Personal Property', link: '/personal-property' }],
+        items: [{ text: 'Document', link: '/document' }],
       },
       {
         items: [
-          { text: 'Frequently Asked Questions', link: '/ppm' },
+          { text: 'Document with sidenav', link: '/document-with-sidenav' },
         ],
       },
       {
-        title: 'Personally Procured Move',
+        title: 'Document submenu',
         items: [
-          { text: 'LPD-2 Approved PPM Augmented Brief', link: '/' },
-          { text: 'PPM Handout', link: '/' },
-          { text: 'PPM Webinar Training Brief', link: '/' },
+          { text: 'Navigation link', link: '/' },
+          { text: 'Navigation link', link: '/' },
+          { text: 'Navigation link', link: '/' },
         ],
       },
     ],
     secondaryLinks: [
-      { text: 'Move.mil', link: 'https://move.mil' },
-      { text: 'U.S. Marine Corps Personal Property Transportation and Storage', link: '/' },
+      { text: 'Secondary link', link: '/' },
+      { text: 'Another secondary link', link: '/' },
     ],
 
     // Search.gov configuration
