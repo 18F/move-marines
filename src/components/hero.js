@@ -9,13 +9,15 @@ const Hero = () => (
     <div className="grid-container">
       <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
-          <span className="usa-hero__heading--alt">Plan Your Move</span>Get valuable info about PCS
+          <span className="usa-hero__heading--alt">Hero callout:</span>Bring
+          attention to a project priority
         </h2>
         <p>
-          Explore this site to find documents & more related to your upcoming move.
+          Support the callout with some short explanatory text. You don’t need
+          more than a couple of sentences.
         </p>
         <a className="usa-button" href="/">
-          
+          Call to action
         </a>
       </div>
     </div>
