@@ -71,7 +71,7 @@ async function createMarkdownPages(createPage, graphql) {
 
   pages.forEach(({ node }) => {
     createPage({
-      path: node.fields.name,
+      path: '/service-specific-information/marine-corps/' + node.fields.name,
       component: pageTemplate,
       context: {
         name: node.fields.name
