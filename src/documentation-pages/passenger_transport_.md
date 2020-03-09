@@ -1,6 +1,6 @@
 ---
 title: Personally Procured Move Information
-sidenav: false
+sidenav: true
 ---
 
 # Moving Resources
