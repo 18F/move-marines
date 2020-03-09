@@ -11,52 +11,26 @@ const Sidenav = () => (
     <nav>
       <ul className="usa-sidenav">
         <li className="usa-sidenav__item">
-          <Link to="/">Parent link</Link>
+          <Link to="/">Passenger Transportation/Link>
         </li>
         <li className="usa-sidenav__item">
           <Link to="/" className="usa-current">
-            Current page
+            Peak Moving Season Information
           </Link>
           <ul className="usa-sidenav__sublist">
             <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
+              <Link to="/">Delta Priority Boarding Info</Link>
             </li>
             <li className="usa-sidenav__item">
               <Link to="/" className="usa-current">
-                Child link
+                PCSing Pets
               </Link>
               <ul className="usa-sidenav__sublist">
                 <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/" className="usa-current">
-                    Grandchild link
-                  </Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
+                  <Link to="/">Pet Research</Link>
                 </li>
               </ul>
             </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-          </ul>
-        </li>
-        <li className="usa-sidenav__item">
-          <Link to="/">Parent link</Link>
-        </li>
-      </ul>
     </nav>
   </aside>
 );
