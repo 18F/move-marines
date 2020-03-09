@@ -1,6 +1,6 @@
 ---
 title: Personally Procured Move
-sidenav: true
+sidenav: false
 ---
 
 # Section heading (h1)
