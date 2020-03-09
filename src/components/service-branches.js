@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
 import uscg from '../images/united-states-coast-guard-emblem.svg';
 import usaf from '../images/united-states-department-of-the-air-force-emblem.svg';
@@ -15,19 +16,19 @@ const ServiceBranches = () => (
       <p>Select your branch of service for additional move-related information and resources.</p>
       <div className="grid-row">
         <div className="tablet:grid-col service-emblem-list--item">
-          <a href="/"><img className="service-emblem" src={usa} alt="Army"/><br />Army</a>
+          <Link to="/"><img className="service-emblem" src={usa} alt="Army"/><br />Army</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
-          <a href="/"><img className="service-emblem" src={usmc} alt="Marine Corps"/><br />Marine Corps</a>
+          <Link to="/service-specific-information/marine-corps/passenger_transport_"><img className="service-emblem" src={usmc} alt="Marine Corps"/><br />Marine Corps</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
-          <a href="/"><img className="service-emblem" src={usn} alt="Navy"/><br />Navy</a>
+          <Link to="/"><img className="service-emblem" src={usn} alt="Navy"/><br />Navy</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
-          <a href="/"><img className="service-emblem" src={usaf} alt="Air Force"/><br />Air Force</a>
+          <Link to="/"><img className="service-emblem" src={usaf} alt="Air Force"/><br />Air Force</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
-          <a href="/"><img className="service-emblem" src={uscg} alt="Coast Guard"/><br />Coast Guard</a>
+          <Link to="/"><img className="service-emblem" src={uscg} alt="Coast Guard"/><br />Coast Guard</Link>
         </div>
       </div>
     </div>

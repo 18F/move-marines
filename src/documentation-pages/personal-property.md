@@ -1,6 +1,6 @@
 ---
-title: Document with sidenav
-sidenav: true
+title: Personal Property
+sidenav: false
 ---
 
 # Section heading (h1)
