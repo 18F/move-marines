@@ -21,12 +21,15 @@ const Sidenav = () => (
               <Link to="/">Personal Property Moves</Link>
             </li>
             <ul className="usa-sidenav__sublist">
-                <li className="usa-sidenav__item">
-                  <Link to="/">Peak Moving Season preparations</Link>
-                </li>
-            <li className="usa-sidenav__item">
-              <Link to="/" className="usa-current">
-                Passenger Transporation</Link>
+              <li className="usa-sidenav__item">
+                <Link to="/">Peak Moving Season preparations</Link>
+              </li>
+              <li className="usa-sidenav__item">
+                <Link to="/" className="usa-current">
+                  Passenger Transporation</Link>
+              </li>
+            </ul>
+          </ul>
         </li>
         <li className="usa-sidenav__item">
           <Link to="/">PCS related links</Link>
