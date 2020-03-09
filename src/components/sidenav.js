@@ -11,26 +11,35 @@ const Sidenav = () => (
     <nav>
       <ul className="usa-sidenav">
         <li className="usa-sidenav__item">
-          <Link to="/">Passenger Transportation/Link>
+          <Link to="/">Move.mil</Link>
         </li>
         <li className="usa-sidenav__item">
           <Link to="/" className="usa-current">
-            Peak Moving Season Information
+            USMC Specific Moving information
           </Link>
           <ul className="usa-sidenav__sublist">
             <li className="usa-sidenav__item">
-              <Link to="/">Delta Priority Boarding Info</Link>
+              <Link to="/">Personal Property Moves</Link>
             </li>
+            <ul className="usa-sidenav__sublist">
+                <li className="usa-sidenav__item">
+                  <Link to="/">Peak Moving Season preparations</Link>
+                </li>
             <li className="usa-sidenav__item">
               <Link to="/" className="usa-current">
-                PCSing Pets
+                Passenger Transporation
               </Link>
               <ul className="usa-sidenav__sublist">
                 <li className="usa-sidenav__item">
-                  <Link to="/">Pet Research</Link>
+                  <Link to="/">Non-uniformed personnel travel</Link>
                 </li>
-              </ul>
             </li>
+          </ul>
+        </li>
+        <li className="usa-sidenav__item">
+          <Link to="/">PCS related links</Link>
+        </li>
+      </ul>
     </nav>
   </aside>
 );
