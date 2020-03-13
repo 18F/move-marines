@@ -19,7 +19,7 @@ const ServiceBranches = () => (
           <Link to="/"><img className="service-emblem" src={usa} alt="Army"/><br />Army</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
-          <Link to="/service-specific-information/marine-corps/passenger_transport_"><img className="service-emblem" src={usmc} alt="Marine Corps"/><br />Marine Corps</Link>
+          <Link to="/service-specific-information/marine-corps/summary"><img className="service-emblem" src={usmc} alt="Marine Corps"/><br />Marine Corps</Link>
         </div>
         <div className="tablet:grid-col service-emblem-list--item">
           <Link to="/"><img className="service-emblem" src={usn} alt="Navy"/><br />Navy</Link>
