@@ -9,7 +9,7 @@ sidenav: true
 ## What is involved in a move?
 As a military or civilian member of the U.S. Armed Forces, relocation becomes part of the routine. However, moving your family and belongings can be a complicated and stressful challenge. We are here to help!
 
-## TODO INSERT CHART
+![Navigating the PCS Maze](../images/pcs-maze.png  "Navigating the PCS Maze")
 
 ## What is the PPO?
 The Personal Property Office (PPO) is your one stop shop for all property movement and storage needs. At the PPO you can:
