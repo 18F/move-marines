@@ -26,7 +26,7 @@ Time the shipment of your UB based on your specific circumstances. For example, 
 * DOD civilian employees
 * 350 pounds for employees on TDY for more
 than 31 days
-Some restrictions apply; please review the Joint Travel Regulations (JTR) and HHG Authorized Locations at http://www.defensetravel.dod.mil/site/travelreg.c fm for complete details.
+Some restrictions apply; please review the Joint Travel Regulations (JTR) and HHG Authorized Locations at http://www.defensetravel.dod.mil/site/travelreg.cfm for complete details.
 
 ## What can you ship as UB?
 * Personal clothing

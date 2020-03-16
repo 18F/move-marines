@@ -73,7 +73,7 @@ You are now ready to execute the move. Follow these tips for success:
 * FFL Listing: https://www.atf.gov/firearms/listing-federal-firearms-licensees-ffls-2017
 ### Other Resources
 * OCONUS Restrictions-PPCIG https://archive.move.mil/documents/OCONUS_Country_Instructions.pdf
-* Defense Transportation Regulations (DTR) Part IV Chapter 409 https://www.ustranscom.mil/dtr/part-iv/dtr-part-4-409.pdf
+* Defense Transportation Regulations (DTR) Part IV Chapter 409 https://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_409.pdf
 * Transportation Security Administration Guidance
 https://www.tsa.gov/travel/transporting-firearms-and-ammunition
 * USPS Firearms Information https://pe.usps.com/text/pub52/pub52c4_008.htm

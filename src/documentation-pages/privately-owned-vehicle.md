@@ -84,5 +84,5 @@ Attorney or letter of authorization; and
 * K-3: Shipping Your POV http://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_app_k_3.pdf
 * K-4: Storing Your POV http://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_app_k_4.pdf
 * PPCIG https://archive.move.mil/documents/OCONUS_Country_Instructions.pdf
-* IAL VPC Location & Specific Requirements https://www.pcsmypov.com/locations
+* IAL VPC Location & Specific Requirements https://www.pcsmypov.com/Locations
 * Customer Service customerservice@ialpov.us
