@@ -4,7 +4,7 @@ sidenav: true
 ---
 
 # Inconvenience Claims
-### Recoup unplanned expenses when your tsp misses scheduled dates
+### Recoup unplanned expenses when your TSP misses scheduled dates
 
 ## What is an inconvenience claim?
 If your moving company cannot meet agreed-upon dates, they may cause a serious inconvenience and unplanned out- of-pocket expenses. An inconvenience claim allows you to recoup unplanned expenses such as lodging, meals, and household items. However, the maximum liability for lodging and meals cannot exceed established per diem rates.
@@ -17,11 +17,11 @@ You may submit a claim if your Transportation Service Provider (TSP) misses any 
 * Delivery date out of storage.
 Contact your company’s customer service section or Personal Property Office (PPO) for additional information and assistance with submission of inconvenience claims.
 
-> ### Remember ... this is not an entitlement program; contact your moving company prior to making purchases.
+> ### Remember, TSP is not an entitlement program. Contact your moving company prior to making purchases.
 
 ## What is the claim process?
-* Contact your TSP before buying anything. * Save all receipts and submit your claim
-directly to your TSP’s claims department.
+* Contact your TSP before buying anything. 
+* Save all receipts and submit your claim directly to your TSP’s claims department.
 * Your TSP will acknowledge receipt within 7 days and pay approved reimbursements within 30 days.
 
 ## Are there exceptions?
