@@ -61,4 +61,14 @@ Even after you submit a Loss & Damage Report, you must submit an itemized claim 
 * Claims Management User Guide and picture tutorial https://www.navsup.navy.mil/site/public/household/downloads/DPS_Claims_User_Guide_27_Feb_17.pdf
 * Filing a Claim tutorial at move.mil https://www.move.mil/tutorials/file-a-claim
 
-### TODO INSERT TABLE
+## Important dates
+
+| Phase                | Action                                                                                                                                                                                           | Timeline WITH Loss & Damage Report | Timeline WITHOUT Loss & Damage Report |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|---------------------------------------|
+| Delivery             | For any lost or damaged items discovered on delivery day, request that your moving driver complete and sign a DD Form 1840. Mutual agreement on major items can lead to fewer disuptes later on. | 0 days after delivery              | N/A                                   |
+| Delivery             | If applicable: Electronically file the DD Form 1840 created on Delivery Day in DPS.                                                                                                              | 0-30 days after delivery           | N/A                                   |
+| Delivery             | Sign in to DPS and submit Loss/Damage Report (DD1840R) indicating your intent to file a claim.                                                                                                   | 0-75 days after delivery           | N/A                                   |
+| Loss & Damage Report | Sign in to DPS and submit itemized claims for any lost or damaged items for full replacement value.                                                                                              | 0-9 months after delivery          | 0-75 days after delivery              |
+| Claims Submission    | Contact the Military Claims Office for help receiving partial replacement value for any lost or damaged items not previously submitted.                                                          | 9 months to 2 years after delivery | 75 days to 2 years after delivery     |
+| Mover Response       | Your moving company should pay, deny, or make a counter claim within 60 days after your claim is final.                                                                                          | 60 days after claims submission    | 60 days after claims submission       |
+| Your Response        | Accept, reject, or transfer your claim to the Military Claims Office.                                                                                                                            | Any time after claim response      | Any time after claim response         |

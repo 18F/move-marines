@@ -59,7 +59,7 @@ Sorting and Inventory
 * Make sure everyone does their part
 * Labels, space bags, tape, mattress bag, etc.
 * Food pantry [tips](http://www.katehorrell.com/keeping-your-pantry-pcs-ready-all-year-long/)
-* List of [Unauthorized](https://www.ustranscom.mil/dtr/part-iv/dtr-part-4-app-i.pdf) Items
+* List of [Unauthorized](https://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_app_i.pdf) Items
 
 ## Week 7
 Make Arrangements (as applicable)
@@ -106,7 +106,7 @@ Final Pre-Move Preparations
 * Cleaning especially important for outside items
 * Moving company is not required to move inaccessible items
 * See [“It’s Your Move”](https://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_app_k_1.pdf) Paragraph J
-* Change of address [link](https://moversguide.usps.com/icoa/home/icoa-main-flow.do?execution=e1s1&_flowId=icoa-main-flow&referral=SEM-phraseD-B&kwd=USPSCoA&utm_keyword=usps%20change%20of%20address&utm_source=google&utm_medium=cpc&utm_cmpid=274977061&utm_adgid=19995587701&utm_tgtid=kwd-495599307&utm_locintid=&utm_locphysid=9008143&utm_matchtypeid=p&utm_network=g&utm_device=c&utm_adid=88450290181&utm_adpos=1t1&utm_plid=&gclid=CNTot8aU5tQCFctLDQodz8sJDA)
+* Change of address [link](https://moversguide.usps.com/mgo/disclaimer)
 * Designate “Do Not Pack” room or load in car
 * Ensure all appliances are ready to move; moving companies are
 not required to connect/disconnect appliances

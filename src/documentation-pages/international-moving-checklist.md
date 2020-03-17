@@ -63,7 +63,7 @@ sidenav: true
 * Make sure everyone does their part
 * Labels, space bags, tape, mattress bag, etc.
 * Food pantry [tips](http://www.katehorrell.com/keeping-your-pantry-pcs-ready-all-year-long/)
-* List of [Unauthorized](https://www.ustranscom.mil/dtr/part-iv/dtr-part-4-app-i.pdf) Items
+* List of [Unauthorized](https://www.ustranscom.mil/dtr/part-iv/dtr_part_iv_app_i.pdf) Items
 
 ## Week 8
 ### Make Arrangements (as applicable)
