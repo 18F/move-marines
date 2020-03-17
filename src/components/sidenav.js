@@ -20,9 +20,9 @@ const Sidenav = () => (
             Marine Corps</Link>
           <ul className="usa-sidenav__sublist">
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/navigating-the-pcs-maze`}>Navigating the PCS Maze</Link></li>
-            <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/domestic-moving-checklist`}>Domestic Moving Checklist</Link></li>
-            <li className="usa-sidenav__item"><Link to={`${PREFIX}/inconvenience-claims`}>Inconvenience Claims</Link></li>
+            <li className="usa-sidenav__item"><Link to={`${PREFIX}/personal-property-moves`}>Personal Property Moves</Link></li>
+			<li className="usa-sidenav__item"><Link to={`${PREFIX}/passenger-transportation`}>Passenger Transporation</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/international-moving-checklist`}>International Moving Checklist</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/loss-and-damage-claims`}>Loss & Damage Claims</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/personal-property-weight-estimation`}>Personal Property Weight Estimation</Link></li>
@@ -33,8 +33,8 @@ const Sidenav = () => (
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/unaccompanied-baggage`}>Unaccompanied Baggage</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/unauthorized-items`}>Unauthorized Items</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/whom-to-call`}>Whom to Call</Link></li>
-			<li className="usa-sidenav__item"><Link to={`${PREFIX}/personal-property-moves`}>Personal Property Moves</Link></li>
-			<li className="usa-sidenav__item"><Link to={`${PREFIX}/passenger-transportation`}>Passenger Transporation</Link></li>
+            <li className="usa-sidenav__item"><Link to={`${PREFIX}/inconvenience-claims`}>Inconvenience Claims</Link></li>
+      <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/peak-moving-season-prep`}>Peak Moving Season preparations</Link></li>
           </ul>
         </li>
