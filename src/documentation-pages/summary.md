@@ -1,12 +1,39 @@
 ---
-title: Personally Procured Move Information
+title: USMC Move Information 
 sidenav: true
 ---
 
-# Moving Resources
+# Welcome to the USMC Moving Information Center
 
-There is valuable Passenger Transportation and Personal Property information on the Logistics Distribution Policy Branch Permanent Change of Station (PCS) webpage. Please click the image icons below for information on moving your family, pet, vehicle and more! All U.S. Department of Defense (DoD) service members and civilian personnel can find additional information on executing a PCS move at www.move.mil. Early coordination and communication are key to ensuring a successful PCS. 
+Here you will find information related to your upcoming PCS. The organization is organized to make your move easier. Starting early will alleviate the inevitable headaches of moving.
 
+# Is this Your First PCS?
+
+## Personal Property Moves
+ - Personnaly Procured Moves
+ - Personal Property Moves
+ - Peak Season Moving Prep
+ - Loss and Damage Claims
+ - Unaccompied Baggage
+ - Rights and Responsibilities
+ - Shipping firearms safely
+ - Passenger Transportation
+
+## Domestic Moves
+- Domestic Moving Checklist
+- Incovenience Claims
+
+## International Moves
+ - International Moving Checklist
+ - Navigating the PCS mave
+ - Privately owned vehicles (POV)
+ - Unauthorized Items
+
+ ## Other Links
+ - Who to call
+ - Survey
+
+<!-- 
 ## Information on Pets
 
 The key to a successful PCS with pets is early planning, constant action and consistent dialogue between the Installation Personnel Administration Center (IPAC), Distribution Management Office (DMO) and you. Know the rules and deadlines for moving your pets well in advance of your move. Shipping your pet is a benefit, not an entitlement- which places pet transportation responsibility directly upon you.
