@@ -39,7 +39,7 @@ const Sidenav = () => (
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/peak-moving-season-prep`}>Peak Moving Season preparations</Link></li>
           </ul>
         </li>
-        <li className="usa-sidenav__item">
+        <li className="usa-sidenav__sublist">
           <Link to={`${PREFIX}/links`}>Links</Link>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/rights-and-responsibilities`}>Rights and Responsibilities</Link></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
