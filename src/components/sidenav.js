@@ -40,10 +40,10 @@ const Sidenav = () => (
           </ul>
         </li>
         <li className="usa-sidenav__sublist">
-          <Link to={`${PREFIX}/links`}>Links</Link>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/rights-and-responsibilities`}>Rights and Responsibilities</Link></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/whom-to-call`}>Whom to Call</Link></li>
+          <li className="usa-sidenav__item"><Link to={`${PREFIX}/links`}>Links</Link></li>
         </li>
       </ul>
     </nav>
