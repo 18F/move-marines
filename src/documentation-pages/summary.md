@@ -12,11 +12,11 @@ Here you will find information related to your upcoming PCS. The organization is
 
 ## PCS Types
   - Domestic
-     - Personal property moves
-     - Household goods
+     - Personally Procured Move
+     - Household Goods
   - Overseas
-     - Personal property moves
-     - Household goods
+     - Personally Procured Move
+     - Household Goods
 
 ## Moving Tasks
   - Pre-move 
