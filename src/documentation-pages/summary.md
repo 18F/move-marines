@@ -1,6 +1,6 @@
 ---
 title: USMC Move Information 
-sidenav: true
+sidenav: false
 ---
 
 # Welcome to the USMC Moving Information Center
