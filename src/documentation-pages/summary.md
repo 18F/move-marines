@@ -1,37 +1,31 @@
 ---
 title: USMC Move Information 
-sidenav: true
+sidenav: false
 ---
 
 # Welcome to the USMC Moving Information Center
 
 Here you will find information related to your upcoming PCS. The organization is organized to make your move easier. Starting early will alleviate the inevitable headaches of moving.
 
-# Is this Your First PCS?
+## General Moving Information
+ - PCS
 
-## Personal Property Moves
- - Personnaly Procured Moves
- - Personal Property Moves
- - Peak Season Moving Prep
- - Loss and Damage Claims
- - Unaccompied Baggage
- - Rights and Responsibilities
- - Shipping firearms safely
- - Passenger Transportation
+## PCS Types
+  - Domestic
+     - Personal property moves
+     - Household goods
+  - Overseas
+     - Personal property moves
+     - Household goods
 
-## Domestic Moves
-- Domestic Moving Checklist
-- Incovenience Claims
-
-## International Moves
- - International Moving Checklist
- - Navigating the PCS mave
- - Privately owned vehicles (POV)
- - Unauthorized Items
-
- ## Other Links
- - Who to call
- - Survey
+## Moving Tasks
+  - Pre-move 
+      - Checklists
+  - Post-move
+       - Checklists
+  - Vehicle Shipments
+  - Claims
+  - Additional Resources
 
 <!-- 
 ## Information on Pets
