@@ -8,26 +8,9 @@ sidenav: true
 Here you will find information related to your upcoming PCS. The organization is organized to make your move easier. Starting early will alleviate the inevitable headaches of moving.
 
 ## PCS Types
-  - [CONUS Moving Checklist] (../domestic-moving-checklist.md)
-     - [Personal Property Moves] (../personal-property-moves.md) 
-     - [Household Goods] (../peak-moving-season-prep.md)
-  - [OCONUS Moving Checklist] (../international-moving-checklist.md)
-     - [Personal Property Moves] (../personal-property-moves.md)
-     - [Household Goods] (../peak-moving-season-prep.md)
- =======
-  - Domestic
-     - Personally Procured Move
-     - Household Goods
-  - Overseas
-     - Personally Procured Move
-     - Household Goods
-
-## Moving Tasks
-  - Pre-move 
-      - Checklists
-  - Post-move
-       - Checklists
-  - Vehicle Shipments
-  - Claims
-  - Additional Resources
-
+  - [CONUS Moving Checklist] 
+     - [Personal Property Moves]
+     - [Household Goods] 
+  - [OCONUS Moving Checklist]
+     - [Personal Property Moves] 
+     - [Household Goods] 
