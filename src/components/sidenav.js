@@ -28,6 +28,11 @@ const Sidenav = () => (
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/privately-owned-vehicle`}>Vehicle Shipments</Link></li>
           </ul>
         </li>
+        <ul className="usa-sidenav__sublist">
+          <li className="usa-sidenav__item"><Link to={`${PREFIX}/rights-and-responsibilities`}>Rights and Responsibilities</Link></li>
+          <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
+          <li className="usa-sidenav__item"><Link to={`${PREFIX}/whom-to-call`}>Whom to Call</Link></li>
+        </ul>
       </ul>
     </nav>
   </aside>
