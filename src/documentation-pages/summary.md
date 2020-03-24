@@ -14,6 +14,20 @@ Here you will find information related to your upcoming PCS. The organization is
   - [OCONUS Moving Checklist] (../international-moving-checklist.md)
      - [Personal Property Moves] (../personal-property-moves.md)
      - [Household Goods] (../peak-moving-season-prep.md)
+ =======
+  - Domestic
+     - Personally Procured Move
+     - Household Goods
+  - Overseas
+     - Personally Procured Move
+     - Household Goods
 
-
+## Moving Tasks
+  - Pre-move 
+      - Checklists
+  - Post-move
+       - Checklists
+  - Vehicle Shipments
+  - Claims
+  - Additional Resources
 
