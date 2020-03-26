@@ -1,8 +1,8 @@
 ---
-title: Personal Property Moves
+title: Personally Procured Moves
 sidenav: true
 ---
 
-# Personal Property Moves
+# Personally Procured Moves
 
 TODO
