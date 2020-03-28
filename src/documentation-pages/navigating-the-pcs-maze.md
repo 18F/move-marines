@@ -30,7 +30,8 @@ You can locate your nearest PPO using the locator map link below. Enter your zip
 * Privately Owned Vehicle shipment/storage
 * NTS
 * PPMs
-* Combination or Split Shipments * Boat or mobile home shipments.
+* Combination or Split Shipments
+* Boat or mobile home shipments.
 
 ## Who is my moving company?
 Your moving company may go by different names, and may send different people for different parts of your move –- that's OK!

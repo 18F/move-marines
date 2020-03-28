@@ -7,7 +7,7 @@ sidenav: true
 
 Here you will find information related to your upcoming Permanent Change of Station (PCS). Starting early will alleviate the inevitable headaches of moving.
 
-## PCS Destinations
+## PCS Types
 ### CONUS
   
 CONUS moves start and end within the 48 contiguous states of the US. Most moves in the US Military are CONUS moves.  [CONUS moving checklist](./domestic-moving-checklist) can help you get started.
