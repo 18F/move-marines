@@ -5,26 +5,26 @@ sidenav: true
 
 # Welcome to the USMC Moving Information Center
 
-Here you will find information related to your upcoming PCS. The organization is organized to make your move easier. Starting early will alleviate the inevitable headaches of moving.
+Here you will find information related to your upcoming Permanent Change of Station (PCS). Starting early will alleviate the inevitable headaches of moving.
 
-## PCS Types
+## PCS Destinations
 ### CONUS
   
- CONUS are moves that start and end within the 48 contiguous states of the US. Most moves in the US Military are CONUS moves.  [CONUS moving checklist](../service-specific-information/marine-corps/domestic-moving-checklist) can help you get started.
+CONUS moves start and end within the 48 contiguous states of the US. Most moves in the US Military are CONUS moves.  [CONUS moving checklist](./domestic-moving-checklist) can help you get started.
  
- Approved for:
-  - [Personal Procured Moves](../personnally-procured-move.md)
-     - [LogCom]
+ Approved Move Types:
   - [Household Good Moves] 
-  - [Partial Moves]
-  
+  - [Personally Procured Moves](./personnally-procured-move)
+     - [LOGCOM](https://www.logcom.marines.mil/Capabilities/Personally-Procured-Move/)
         
      
 ### OCONUS
   
-Moves to or from Alaska and Hawaii along with international stations are considered OCONUS moves. These moves are more complicated and each location may have additional limitations on what you are allowed to transport. [OCONUS moving checklist](../service-specific-information/marine-corps/international-moving-checklist) can help you get started.
+Moves to or from Alaska and Hawaii along with international stations are considered OCONUS moves. These moves are more complicated and each location may have additional limitations on what you are allowed to transport. [OCONUS moving checklist](./international-moving-checklist) can help you get started.
 
-Approved for:
-   - [Personal Procured Moves](../personnally-procured-move.md)
-   - [Privately Owned Vehicle(POV)](../privately-owned-vehicle.md)
-   - [Unaccompanied Moves (UB)](../unaccompanied-baggage.md)
+Approved Move Types:
+   - [Household Good Moves] 
+   - [Personally Procured Moves](./personnally-procured-move)
+     - [LOGCOM](https://www.logcom.marines.mil/Capabilities/Personally-Procured-Move/)
+   - [Unaccompanied Baggage (UB)](./unaccompanied-baggage)
+   - [Privately Owned Vehicle(POV)](./privately-owned-vehicle)

@@ -29,11 +29,11 @@ const Sidenav = () => (
           </ul>
         </li>
         <ul className="usa-sidenav__sublist">
-          <li className="usa-sidenav__item"><Link to={`https://www.defensetravel.dod.mil/site/travelreg.cfm`}>Joint Travel Regulations(JTR)</Link></li>
+          <li className="usa-sidenav__item"><a href="https://www.defensetravel.dod.mil/site/travelreg.cfm">Joint Travel Regulations(JTR)</a></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/rights-and-responsibilities`}>Rights and Responsibilities</Link></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/customer-satisfaction-survey`}>Customer Satisfaction Survey</Link></li>
           <li className="usa-sidenav__item"><Link to={`${PREFIX}/whom-to-call`}>Whom to Call</Link></li>
-          <li className="usa-sidenav__item"><Link to={`https://www.marines.mil/News/Messages/MARADMINS/`}>MARADMINS</Link></li>
+          <li className="usa-sidenav__item"><a href="https://www.marines.mil/News/Messages/MARADMINS">MARADMINS</a></li>
         </ul>
       </ul>
     </nav>
