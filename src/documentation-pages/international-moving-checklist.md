@@ -15,7 +15,7 @@ sidenav: true
 * Obtain Special Power of Attorney (POA)/Letter of Authorization
 * Log in to Defense Personal Property System (DPS)
 * Determine the type of move you want to execute
-* Attend a moving class
+* Attend a [moving class](https://usmc-mccs.org/services/support/information-and-referral/)
 
 ### Tips and Resources
 * Must be done at the 90-day mark for AMC
