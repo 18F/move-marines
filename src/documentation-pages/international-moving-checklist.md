@@ -7,11 +7,13 @@ sidenav: true
 
 ## Weeks 1-2
 ### Initial Administration
-* Arrange with Air Mobility Command (AMC) to move your pet * Inform family and friends
+* Arrange with Air Mobility Command (AMC) to move your pet
+* Inform family and friends
 * Construct a moving binder
 * Determine weight allowance
 * Make a financial plan for moving expenses
-* Obtain Special Power of Attorney (POA)/Letter of Authorization * Log in to Defense Personal Property System (DPS)
+* Obtain Special Power of Attorney (POA)/Letter of Authorization
+* Log in to Defense Personal Property System (DPS)
 * Determine the type of move you want to execute
 * Attend a moving class
 
@@ -32,11 +34,13 @@ sidenav: true
 * Estimate the weight you will be moving
 * Gather required documentation
 * Complete self-counseling through DPS
-* Turn in required documentation to Personal Property Office (PPO) * Schedule the pre-move survey after you have a moving company
+* Turn in required documentation to Personal Property Office (PPO)
+* Schedule the pre-move survey after you have a moving company
 
 ### Tips and Resources
 * [Weight estimator tool](https://www.move.mil/resources/weight-estimator)
-* Orders, desired move dates, weight estimation (at a minimum) * Signed DD Form 1797 and 1299(s)
+* Orders, desired move dates, weight estimation (at a minimum)
+* Signed DD Form 1797 and 1299(s)
 
 ## Week 4
 ### Housing and Travel
@@ -51,7 +55,8 @@ sidenav: true
 
 ## Weeks 5-7
 ### Sorting and Inventory
-* Sort all HHG, identify items to donate, return, or trash/recycle * Inventory as you sort, starting with highest-value items
+* Sort all HHG, identify items to donate, return, or trash/recycle
+* Inventory as you sort, starting with highest-value items
 * Assign responsibilities to different family members
 * Order supplies that will make your life easier on move day
 * Begin eating down the contents of your food pantry
@@ -67,13 +72,15 @@ sidenav: true
 
 ## Week 8
 ### Make Arrangements (as applicable)
-* Book kennels for pets; schedule vet appointments * Schedule babysitting services for moving day
+* Book kennels for pets; schedule vet appointments
+* Schedule babysitting services for moving day
 * Reserve temporary lodging
 * Schedule rental car (not an entitlement)
 * Make plan for house cleaning
 
 ### Tips and Resources
-* Find ways to ease the stress of transition * Plan early to lessen stress
+* Find ways to ease the stress of transition
+* Plan early to lessen stress
 * Give yourself time to find a new home
 
 ## Week 9
@@ -94,7 +101,8 @@ sidenav: true
 * Move items out of attics and crawlspaces
 * Separate professional gear (member and spouse)
 * Submit change of address to postal service
-* Separate suitcases and unaccompanied baggage from HHG * Empty, thaw, and thoroughly clean refrigerator
+* Separate suitcases and unaccompanied baggage from HHG
+* Empty, thaw, and thoroughly clean refrigerator
 * Remove all items from the walls
 * Mark everything you do not want moved
 * Drain lawnmower of gas and oil

@@ -11,7 +11,8 @@ Initial Administration
 * Construct a moving binder
 * Determine weight allowance
 * Make a financial plan for moving expenses
-* Obtain Special Power of Attorney (POA)/Letter of Authorization * Log in to Defense Personal Property System (DPS)
+* Obtain Special Power of Attorney (POA)/Letter of Authorization
+* Log in to Defense Personal Property System (DPS)
 * Determine the type of move you want to execute
 * Attend a moving class
 
@@ -22,23 +23,27 @@ Initial Administration
 * Internal Revenue Service [Publication](https://www.irs.gov/pub/irs-pdf/p521.pdf) 521 tax information
 * [Example](http://www.29palms.marines.mil/Portals/56/Docs/SJA/SPOA%20FILL%20IN%20THE%20BLANKS%203-18-11.pdf) Special POA
 * If you do not have an account, go to [move.mil](http://www.move.mil/)
-* Household goods (HHG), Personally Procured Moves, or other * Verify dates/times with base Marine Corps Community Services
+* Household goods (HHG), Personally Procured Moves, or other
+* Verify dates/times with base Marine Corps Community Services
 
 ## Week 2
 Counseling and Shipment Booking
 * Estimate the weight you will be moving
 * Gather required documentation
 * Complete self-counseling through DPS
-* Turn in required documentation to Personal Property Office (PPO) * Schedule pre-move survey when you have a moving company
+* Turn in required documentation to Personal Property Office (PPO)
+* Schedule pre-move survey when you have a moving company
 
 ### Tips and Resources
 * Weight estimator [tool](https://www.move.mil/resources/weight-estimator)
-* Orders, desired move dates, weight estimation (at a minimum) * Signed DD Form 1797 and 1299(s)
+* Orders, desired move dates, weight estimation (at a minimum)
+* Signed DD Form 1797 and 1299(s)
 
 ## Week 3
 Housing and Travel
 * Contact sponsor regarding housing options
-* Determine if you will take leave in conjunction with moving * Notify your landlord of approximate move dates
+* Determine if you will take leave in conjunction with moving
+* Notify your landlord of approximate move dates
 
 ### Tips and Resources
 * [Overview](https://www.thebalance.com/military-travel-pcs-move-entitlements-3357064) of entitlements
@@ -47,7 +52,8 @@ Housing and Travel
 
 ## Weeks 4-6
 Sorting and Inventory
-* Sort all HHG, identify items to donate, return, or trash/recycle * Inventory as you sort, starting with highest-value items
+* Sort all HHG, identify items to donate, return, or trash/recycle
+* Inventory as you sort, starting with highest-value items
 * Assign responsibilities to different family members
 * Order supplies that will make your life easier on move day
 * Begin eating down the contents of your food pantry
@@ -70,7 +76,8 @@ Make Arrangements (as applicable)
 * Make plan for house cleaning
 
 ### Tips and Resources
-* Find ways to ease the stress of transition * Plan early to lessen stress
+* Find ways to ease the stress of transition
+* Plan early to lessen stress
 * Give yourself time to find a new home
 
 ## Week 8
