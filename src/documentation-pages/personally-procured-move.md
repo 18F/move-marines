@@ -33,6 +33,7 @@ You may move up to the weight allowance determined by your orders, grade/rank/ra
 * The government will pay you an incentive equal to 95% of the government’s costs to move your goods.
 * Remember: the incentive payment depends on the actual weight moved and is not a full reimbursement.
 * Planning is key to ensuring your costs do not exceed your incentive payment because choosing more expensive moving companies and services may result in costs that are higher than your incentive will cover.
+* [PPM Estimator](https://move.mil/resources/ppm-estimator)
 
 ## Organize
 ### How do I get approval?
@@ -86,6 +87,9 @@ Take your claim to a USMC PPO where they will review your claim, scan it in, and
 ### When will I get paid?
 * Transportation Voucher Certification Branch (TVCB) works claims on a first come first served basis. They keep their website up to date with the submit date for the claims they are currently working on. Once TVCB posts that they are working on the date your claim was received, allow 10-15 days before contacting the office for a status update.
 * To know exactly when TVCB received your settlement, send it through United States Postal Service (USPS) and request a return receipt. Turn “read-receipt” on for emailed packages.
+* [How to correctly assemble & submit your PPM Claim](https://www.logcom.marines.mil/portals/184/docs/sites/tvcd/files/PPP-How-to-Submit-PPM-CLAIM-Apr-2018new.pdf)
+    * [DD Form 2278](https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2278.pdf) Application for Do It Yourself Move and Counseling Checklist
+    * [DD Form 1351-2](https://www.logcom.marines.mil/Portals/184/Docs/Sites/tvcd/files/dd1351-2-form-20160712.pdf) Travel Voucher or Subvoucher
 
 ## For further guidance
 ### Joint Travel Regulations (JTR)
@@ -103,8 +107,7 @@ Marine Corps Order (MCO) 4600.39
 * Chapter 4 provides specific guidance for Marines
 
 ### TVCB (for Marines)
-* See FAQ for answers to common PPM Questions
-* http://www.logcom.marines.mil/Capabilities/Personally-Procured-Move/faq.aspx
+* See [Logistics Command PPM FAQ](https://www.logcom.marines.mil/Capabilities/Personally-Procured-Move/faq.aspx) for answers to common PPM Questions
 * See PPM Brochure and PPM Claim Guidance PowerPoint Presentation
 Naval Supply System Command (NAVSUP) Website (for Sailors)
 * https://www.navsup.navy.mil/public/navsup/hhg/home/

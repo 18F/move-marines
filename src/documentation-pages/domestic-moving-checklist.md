@@ -14,7 +14,7 @@ Initial Administration
 * Obtain Special Power of Attorney (POA)/Letter of Authorization
 * Log in to Defense Personal Property System (DPS)
 * Determine the type of move you want to execute
-* Attend a moving class
+* Attend a [moving class](https://usmc-mccs.org/services/support/information-and-referral/)
 
 ### Tips and Resources
 * [Tips](http://kidshealth.org/en/parents/move.html#kha_12) for discussing a move with children.
