@@ -25,7 +25,6 @@ const Sidenav = () => (
             </li>
           <ul className="usa-sidenav__sublist">
             <li className="usa-sidenav__item"><Link to={`${PREFIX}/loss-and-damage-claims`}>Loss & Damage Claims</Link></li>
-            <li className="usa-sidenav__item"><Link to={`${PREFIX}/privately-owned-vehicle`}>Vehicle Shipments</Link></li>
           </ul>
         </li>
         <ul className="usa-sidenav__sublist">
